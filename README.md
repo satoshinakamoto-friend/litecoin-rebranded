@@ -1,0 +1,2 @@
+# litecoin-rebranded
+rebranded litecoin
